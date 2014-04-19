@@ -5,7 +5,7 @@ from datetime import timedelta
 from os.path import abspath, basename, dirname, join, normpath
 from sys import path
 
-from djcelery import setup_loader
+#from djcelery import setup_loader
 
 
 ########## PATH CONFIGURATION
